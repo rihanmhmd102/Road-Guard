@@ -158,6 +158,8 @@ Future improvements may include:
 
 - The **Flutter mobile application source code is not included in this repository**.
 - This repository mainly focuses on the **AI model training and real-time pothole detection system**.
+- The **Dataset and weights are not included in this repository**.Please contact if needed
+- To enable **real time visual of potholes in flutter application** firebase should be integrated manually in the code by visiting [Firebase Official site](https://firebase.google.com/)
 
 📄 For the **complete project documentation and Flutter application images**, please refer to the file below:
 
@@ -166,3 +168,4 @@ Future improvements may include:
 
 
 ---
+
