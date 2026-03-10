@@ -1,0 +1,16 @@
+.env
+firebase_key.json
+
+dataset/
+test/
+runs/
+
+yolo26n.pt
+yolov8m.pt
+*.pt
+
+__pycache__/
+*.pyc
+
+*.npy
+*.cache
